@@ -4,7 +4,7 @@
 
 ![App Preview](Image.png)
 
-🎥 Demo Video: https://youtu.be/
+🎥 Demo Video: https://youtu.be/c0qM7TKo8VQ
 
 📋 Description
 - A lightweight Windows desktop application for tracking personal finances.  
